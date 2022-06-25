@@ -1,0 +1,1 @@
+sudo g++ -Wall -I/usr/include/cppconn -o (OUTPUT) (INPUT.cpp) -L/usr/lib -lmysqlcppconn
